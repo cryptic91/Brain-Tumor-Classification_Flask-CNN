@@ -1,1 +1,2 @@
-# Brain-Tumor-Classification_Flask-CNN
+# Brain Tumor Classification
+## Using Flask and Deep learning
