@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.btn-custom {
+    background-color: #3498db; /* Light blue */
+    color: white;
+    border: none;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow */
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2); /* Box shadow on hover */
+}
+
+#blue {
+    color: rgb(41, 205, 186); 
+}
+
+#result span {
+    font-weight: bold; /* Make the "Result:" text bold */
+}
